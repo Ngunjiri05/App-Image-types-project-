@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu4.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu4.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-hdpi_icon_yangu3_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-hdpi/icon_yangu3_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu4.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu4.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-hdpi_icon_yangu4_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-hdpi/icon_yangu4_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu2_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu2_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-anydpi-v21_icon_yangu2_background.xml.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-anydpi-v21/icon_yangu2_background.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/xml_backup_rules.xml.flat",
+        "source": "com.example.mytest.app-main-11:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-hdpi_icon_yangu2_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-hdpi/icon_yangu2_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu3_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu3_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu2.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu2.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu4_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu4_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-anydpi-v21_icon_yangu3_background.xml.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-anydpi-v21/icon_yangu3_background.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-mdpi_icon_yangu3_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-mdpi/icon_yangu3_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable_icon_yangu3_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/drawable/icon_yangu3_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu4_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu4_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu4_round.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu4_round.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu3.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu3.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu3_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu3_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable_facebook.png.flat",
+        "source": "com.example.mytest.app-main-11:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable_icon_yangu2_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/drawable/icon_yangu2_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-anydpi-v21_icon_yangu4_background.xml.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-anydpi-v21/icon_yangu4_background.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu3_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu3_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu3.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu3.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu3_round.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu3_round.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu2.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu2.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu2.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu2.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-mdpi_icon_yangu4_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-mdpi/icon_yangu4_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu4_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu4_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-mdpi_icon_yangu_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-mdpi/icon_yangu_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxhdpi_icon_yangu_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxhdpi/icon_yangu_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu2_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu2_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "com.example.mytest.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu2_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu2_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu2_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu2_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu4_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu4_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu2.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu2.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable_s.png.flat",
+        "source": "com.example.mytest.app-main-11:/drawable/s.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxxhdpi_icon_yangu_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxxhdpi/icon_yangu_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xhdpi_icon_yangu2_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xhdpi/icon_yangu2_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-hdpi_icon_yangu_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-hdpi/icon_yangu_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu3.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu3.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu3_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu3_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu3_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu3_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-ldpi_icon_yangu_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-ldpi/icon_yangu_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu4.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu4.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu3.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu3.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxxhdpi_icon_yangu3_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxxhdpi/icon_yangu3_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu2_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu2_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu4_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu4_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu_round.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu_round.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu4.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu4.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxhdpi_icon_yangu2_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxhdpi/icon_yangu2_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu2_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu2_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu3_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu3_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable_icon_yangu4_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/drawable/icon_yangu4_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu2_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu2_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxhdpi_icon_yangu3_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxhdpi/icon_yangu3_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xhdpi_icon_yangu3_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xhdpi/icon_yangu3_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu4.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu4.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xhdpi_icon_yangu_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xhdpi/icon_yangu_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu4.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu4.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu2_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu2_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-ldpi_icon_yangu4_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-ldpi/icon_yangu4_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxxhdpi_icon_yangu2_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxxhdpi/icon_yangu2_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu4_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu4_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu2_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu2_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-ldpi_icon_yangu2_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-ldpi/icon_yangu2_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxhdpi_icon_yangu4_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxhdpi/icon_yangu4_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu3_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu3_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xhdpi_icon_yangu4_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xhdpi/icon_yangu4_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu2_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu2_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-anydpi-v21_icon_yangu_background.xml.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-anydpi-v21/icon_yangu_background.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable_icon_yangu_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/drawable/icon_yangu_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu4_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu4_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-mdpi_icon_yangu3_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-mdpi/icon_yangu3_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu2.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu2.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mytest.app-main-11:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu4_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu4_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu4_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu4_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu2_round.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu2_round.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-mdpi_icon_yangu2_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-mdpi/icon_yangu2_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-ldpi_icon_yangu3_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-ldpi/icon_yangu3_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu3.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu3.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-anydpi-v26_icon_yangu.xml.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-anydpi-v26/icon_yangu.xml"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-hdpi_icon_yangu4_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-hdpi/icon_yangu4_foreground.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu3_round.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu3_round.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxhdpi_icon_yangu2.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxhdpi/icon_yangu2.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/drawable-xxxhdpi_icon_yangu4_background.png.flat",
+        "source": "com.example.mytest.app-pngs-4:/drawable-xxxhdpi/icon_yangu4_background.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xxxhdpi_icon_yangu3.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xxxhdpi/icon_yangu3.png"
+    },
+    {
+        "merged": "com.example.mytest.app-merged_res-9:/mipmap-xhdpi_icon_yangu3_foreground.png.flat",
+        "source": "com.example.mytest.app-main-11:/mipmap-xhdpi/icon_yangu3_foreground.png"
+    }
+]
